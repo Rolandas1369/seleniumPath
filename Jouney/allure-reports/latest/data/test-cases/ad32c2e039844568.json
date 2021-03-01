@@ -1,0 +1,48 @@
+{
+  "uid" : "ad32c2e039844568",
+  "name" : "test_pyt",
+  "fullName" : "test_python_page#test_pyt",
+  "historyId" : "83c459174e348a322cbb0ce0153f47a8",
+  "time" : {
+    "start" : 1614538990228,
+    "stop" : 1614538992822,
+    "duration" : 2594
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_python_page"
+  }, {
+    "name" : "host",
+    "value" : "rolandas-ThinkCentre-M83"
+  }, {
+    "name" : "thread",
+    "value" : "9683-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_python_page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad32c2e039844568.json",
+  "parameterValues" : [ ]
+}

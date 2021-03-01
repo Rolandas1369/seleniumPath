@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found",
+      "children" : [ {
+        "name" : "test_pyt1",
+        "uid" : "474d322ae7c7778b",
+        "parentUid" : "6e14a986ce3b8fb8924bfa29ed4add46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614538990228,
+          "stop" : 1614538990233,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pyt1",
+        "uid" : "43c5f2b9de19c394",
+        "parentUid" : "6e14a986ce3b8fb8924bfa29ed4add46",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614538990229,
+          "stop" : 1614538990231,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e14a986ce3b8fb8924bfa29ed4add46"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

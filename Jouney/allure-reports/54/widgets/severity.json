@@ -1,0 +1,31 @@
+[ {
+  "uid" : "83d3c1be7a95c4f4",
+  "name" : "test_pyt1",
+  "time" : {
+    "start" : 1614538990228,
+    "stop" : 1614538990233,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe87b738f9683291",
+  "name" : "test_pyt1",
+  "time" : {
+    "start" : 1614538990229,
+    "stop" : 1614538990231,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8bfafa34fbfd3b01",
+  "name" : "test_pyt",
+  "time" : {
+    "start" : 1614538990228,
+    "stop" : 1614538992822,
+    "duration" : 2594
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "name" : "Automatic Execution",
+  "type" : "another",
+  "buildOrder" : 54,
+  "buildName" : "default #54",
+  "buildUrl" : "",
+  "reportName" : "default",
+  "reportUrl" : "../54/index.html"
+} ]

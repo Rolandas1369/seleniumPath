@@ -1,0 +1,64 @@
+{
+  "uid" : "18d84819cfe67a58",
+  "name" : "test_pyt",
+  "fullName" : "test_python_page#test_pyt",
+  "historyId" : "83c459174e348a322cbb0ce0153f47a8",
+  "time" : {
+    "start" : 1614538527443,
+    "stop" : 1614538530467,
+    "duration" : 3024
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8e04b4d1c11e0abe",
+      "name" : "stdout",
+      "source" : "8e04b4d1c11e0abe.txt",
+      "type" : "text/plain",
+      "size" : 114
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_python_page"
+  }, {
+    "name" : "host",
+    "value" : "rolandas-ThinkCentre-M83"
+  }, {
+    "name" : "thread",
+    "value" : "19262-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_python_page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18d84819cfe67a58.json",
+  "parameterValues" : [ ]
+}

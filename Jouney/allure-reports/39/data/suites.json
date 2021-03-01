@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_python_page",
+    "children" : [ {
+      "name" : "test_pyt",
+      "uid" : "8110124b174efa80",
+      "parentUid" : "fc83393de2ef73f510ac7b8d463b4c28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614537768164,
+        "stop" : 1614537770279,
+        "duration" : 2115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fc83393de2ef73f510ac7b8d463b4c28"
+  }, {
+    "name" : "test_multiple",
+    "children" : [ {
+      "name" : "test_pyt1",
+      "uid" : "a05b912b38a917c0",
+      "parentUid" : "9514280ecd3bcd1f023b4daa61874f7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614537889026,
+        "stop" : 1614537892318,
+        "duration" : 3292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9514280ecd3bcd1f023b4daa61874f7c"
+  }, {
+    "name" : "test_one_more",
+    "children" : [ {
+      "name" : "test_pyt1",
+      "uid" : "9baa0d0d0f4fab8b",
+      "parentUid" : "bcab9610b767e82ebf7695aeb1d25980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614537892320,
+        "stop" : 1614537895049,
+        "duration" : 2729
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bcab9610b767e82ebf7695aeb1d25980"
+  } ]
+}

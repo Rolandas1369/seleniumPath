@@ -1,0 +1,86 @@
+{
+  "uid" : "a3ad3181da34ee6e",
+  "name" : "test_pyt1",
+  "fullName" : "test_one_more#test_pyt1",
+  "historyId" : "d50d17ab56fa4c37dfa1735f0c43e22d",
+  "time" : {
+    "start" : 1614537892320,
+    "stop" : 1614537895049,
+    "duration" : 2729
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "36fded05bd2e62b5",
+      "name" : "stdout",
+      "source" : "36fded05bd2e62b5.txt",
+      "type" : "text/plain",
+      "size" : 118
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_one_more"
+  }, {
+    "name" : "host",
+    "value" : "rolandas-ThinkCentre-M83"
+  }, {
+    "name" : "thread",
+    "value" : "27735-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_one_more"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9baa0d0d0f4fab8b",
+        "reportUrl" : "../39/index.html#testresult/9baa0d0d0f4fab8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614537892320,
+          "stop" : 1614537895049,
+          "duration" : 2729
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a3ad3181da34ee6e.json",
+  "parameterValues" : [ ]
+}
